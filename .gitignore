@@ -22,7 +22,7 @@
 *.nav
 *.nlo
 *.out
-thesis.pdf
+*.pdf
 *.pdfsync
 *.ps
 *.snm
